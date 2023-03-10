@@ -1,3 +1,3 @@
 ### Langoustine
 
-A C++ implementation of Lox.
+A Rust implementation of Lox.
